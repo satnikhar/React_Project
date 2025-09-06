@@ -2,4 +2,4 @@
 React First Project
 <br>
 
-Author Satish Nikhar
+Author: Satish Nikhar Sat
